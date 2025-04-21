@@ -4,13 +4,18 @@
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=SamuelBP&show_icons=true&theme=radical"
     media="(prefers-color-scheme: dark)"
+
   />
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=SamuelBP&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=SamuelBP&show_icons=true" />
+
+
 </picture>
+
+  ![Image](https://github.com/user-attachments/assets/0fd7245a-3a73-48e4-896b-7f44d3a72303)
   
   ##
  
